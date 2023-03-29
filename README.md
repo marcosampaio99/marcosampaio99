@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Banner ou imagem de perfil](https://png.pngtree.com/png-clipart/20220301/original/pngtree-3d-ribbon-promotion-decoration-red-banner-png-image_7354301.png)
+![Banner ou imagem de perfil](https://thenounproject.com/api/private/icons/31498/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABkI4WfOOIeG4st6ejmYBs_M_6Ccd6Gcu9oH7JjhT2v2P0RHrzyvEv6wXwra1vFS9H4egKwUGW6FQ2liVDk-hMPTyuPUg%3D%3D)
 
 
 Aqui podes ver alguns dos meus projetos.
