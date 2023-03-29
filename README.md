@@ -1,7 +1,5 @@
 ### Olá 👋
 
-![Banner ou imagem de perfil](https://www.google.pt/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fnew-year-2023-banner.html&psig=AOvVaw3e1dJfMz_i3ikZDvB20Wk3&ust=1680135936893000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi3w5_w__0CFQAAAAAdAAAAABAp)
-
 
 Aqui podes ver alguns dos meus projetos.
 
