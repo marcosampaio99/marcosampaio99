@@ -14,6 +14,7 @@ Aqui podes ver alguns dos meus projetos.
 - Ferramentas: Visual Studio Code, IntelliJ IDEA, Android Studio, Git, MySQL, Slack, Zoom, Notion.
 
 
+##
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcosampaio99&show_icons=true&theme=radical)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosampaio99&layout=compact&theme=radical)
