@@ -1,6 +1,6 @@
 ### Olá 👋
 
-![Banner ou imagem de perfil](https://thenounproject.com/api/private/icons/31498/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABkI4WfOOIeG4st6ejmYBs_M_6Ccd6Gcu9oH7JjhT2v2P0RHrzyvEv6wXwra1vFS9H4egKwUGW6FQ2liVDk-hMPTyuPUg%3D%3D)
+![Banner ou imagem de perfil](https://www.google.pt/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fnew-year-2023-banner.html&psig=AOvVaw3e1dJfMz_i3ikZDvB20Wk3&ust=1680135936893000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNi3w5_w__0CFQAAAAAdAAAAABAp)
 
 
 Aqui podes ver alguns dos meus projetos.
