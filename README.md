@@ -1,5 +1,8 @@
 ### Olá 👋
 
+![Banner ou imagem de perfil](https://png.pngtree.com/png-clipart/20220301/original/pngtree-3d-ribbon-promotion-decoration-red-banner-png-image_7354301.png)
+
+
 Aqui podes ver alguns dos meus projetos.
 
 - 🎓 Mestrado em Engenharia Informática na Universidade do Minho 
@@ -16,6 +19,8 @@ Aqui podes ver alguns dos meus projetos.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcosampaio99&show_icons=true&theme=radical)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosampaio99&layout=compact&theme=radical)
+
+
 
 <!--
 **marcosampaio99/marcosampaio99** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
