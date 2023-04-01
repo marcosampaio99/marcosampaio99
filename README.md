@@ -1,17 +1,19 @@
-Hello 👋
+ ###  Hello 👋
 
 Here you can see some of my projects.
 
-🎓 Master's degree in Computer Engineering from the University of Minho
-📧 Contact: marco.sampaio@live.com.pt
-https://www.linkedin.com/in/marcosampaio99/
-Technologies
-Programming languages: Haskell, C, C++, Java, JavaScript, Python, SQL.
-Frameworks and libraries: React, React Native, OpenGL, .NET.
-Tools: Visual Studio Code, IntelliJ IDEA, Android Studio, Git, MySQL, Slack, Zoom, Notion.
+- 🎓 Master's degree in Computer Engineering from the University of Minho
+- 📧 Contact: marco.sampaio@live.com.pt
+- https://www.linkedin.com/in/marcosampaio99/
 
 
+## Technologies
+- Programming languages: Haskell, C, C++, Java, JavaScript, Python, SQL.
+- Frameworks and libraries: React, React Native, OpenGL, .NET.
+- Tools: Visual Studio Code, IntelliJ IDEA, Android Studio, Git, MySQL, Slack, Zoom, Notion.
 
+
+##
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcosampaio99&show_icons=true&theme=radical)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosampaio99&layout=compact&theme=radical)
