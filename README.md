@@ -5,6 +5,7 @@ Aqui podes ver alguns dos meus projetos.
 
 - 🎓 Mestrado em Engenharia Informática na Universidade do Minho 
 - 📧 Contacto: marco.sampaio@live.com.pt
+- https://www.linkedin.com/in/marcosampaio99/
 
 
 ## Tecnologias
