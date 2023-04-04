@@ -2,13 +2,13 @@
 
 Here you can see some of my projects.
 
-- 🎓 Master's degree in Computer Engineering from the University of Minho
+- 🎓 Master's degree in Computer Engineering at Minho's University 
 - 📧 Contact: marco.sampaio@live.com.pt
 - https://www.linkedin.com/in/marcosampaio99/
 
 
 ## Technologies
-- Programming languages: Haskell, C, C++, Java, JavaScript, Python, SQL.
+- Programming languages: Haskell, C, C++, Java, Python, SQL, HTML, CSS.
 - Frameworks and libraries: React, React Native, OpenGL, .NET.
 - Tools: Visual Studio Code, IntelliJ IDEA, Android Studio, Git, MySQL, Slack, Zoom, Notion.
 
