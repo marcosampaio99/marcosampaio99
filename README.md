@@ -8,7 +8,7 @@ Here you can see some of my projects.
 
 
 ## Technologies
-- Programming languages: Haskell, C, C++, Java, Python, SQL, HTML, CSS, Javacript.
+- Programming languages: Haskell, C, C++, Java, Python, SQL, HTML, CSS, Javascript.
 - Frameworks and libraries: React, React Native, OpenGL, .NET.
 - Tools: Visual Studio Code, IntelliJ IDEA, Android Studio, Git, MySQL, Slack, Zoom, Notion.
 
